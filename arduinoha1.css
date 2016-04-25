@@ -1,0 +1,24 @@
+body { background-image:url('http://www.grandgeneva.com/timeline/images/body-background.jpg');
+margin:0px 0px;padding:0px;text-align:center
+	}
+h1
+{ 
+text-align: center;
+}
+a
+{
+margin:auto;
+padding:15px 20px;
+display:inline-block;
+font-size: 15px;
+text-align:center;
+cursor: pointer;
+background-color:white;
+color: light green;
+border-style:outset;
+border-radius:20px;
+}
+a:link {color:black;}      /* unvisited link */
+a:visited {color:white;}  /* visited link */
+a:hover {color:white;}  /* mouse over link */
+a:active {color:white;}  /* selected link */
